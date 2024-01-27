@@ -1,1 +1,9 @@
+{
+    "rut": "valor_rut",
+    "indicativo": "valor_indicativo",
+    "nombre": "valor_nombre",
+    "tipo_socio": "activo", // o "colaborador"
+    "fecha_ingreso": "valor_fecha_ingreso",
+    "fecha_inicio_activo": "valor_fecha_inicio_activo"
+}
 
